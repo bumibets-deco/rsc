@@ -3,7 +3,7 @@ package launcher.Utils;
 public class Defaults {
 
   // URLS
-  public static final String _VERSION_UPDATE_URL = "http://updater.storkpk.gg/Defaults.java";
+  public static final String _VERSION_UPDATE_URL = "https://raw.githubusercontent.com/bumibets-deco/rsc/refs/heads/main/Defaults.java";
   public final static String _GAME_FILES_SERVER = "http://updater.storkpk.gg";
 
   // EXTRAS
