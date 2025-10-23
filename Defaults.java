@@ -19,7 +19,7 @@ public class Defaults {
 
   // FILES
   public final static String _CLIENT_FILENAME = "Open_RSC_Client";
-  public final static String _LAUNCHER_FILENAME = "storkpk.jar";
+  public final static String _LAUNCHER_FILENAME = "OpenRSC.jar";
   public final static String _MD5_TABLE_FILENAME = "MD5.SUM";
 
   // VERSIONS
