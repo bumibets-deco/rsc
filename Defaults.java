@@ -4,7 +4,7 @@ public class Defaults {
 
   // URLS
   public static final String _VERSION_UPDATE_URL = "https://raw.githubusercontent.com/bumibets-deco/rsc/refs/heads/main/Defaults.java";
-  public final static String _GAME_FILES_SERVER = "http://updater.storkpk.gg/";
+  public final static String _GAME_FILES_SERVER = "https://updater.storkpk.gg/";
 
   // EXTRAS
   public final static String _RSCPLUS_REPOSITORY_DL = "https://github.com/RSCPlus/rscplus/releases/download/Latest/rscplus-windows.zip";
