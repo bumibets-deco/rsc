@@ -23,7 +23,7 @@ public class Defaults {
   public final static String _MD5_TABLE_FILENAME = "MD5.SUM";
 
   // VERSIONS
-  public final static Double _CURRENT_VERSION = 20231002.090000;
+  public final static Double _CURRENT_VERSION = 20231001.090000;
 
   // Only update versions below as-needed
   public final static Double _RSCPLUS_VERSION = 20210214.175053;
